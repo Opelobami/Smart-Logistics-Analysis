@@ -42,7 +42,7 @@ By converting complex datasets into clear, data-driven visuals, the analysis aim
 
 3. **Data Visualization**  
    - Developed a dynamic and interactive Power BI dashboard highlighting core logistics metrics  
-   - Implemented time-based and categorical filters to support business monitoring and strategy formulation  
+   - Implemented time-based and categorical slicers to support business monitoring and strategy formulation  
 
 ---
 
