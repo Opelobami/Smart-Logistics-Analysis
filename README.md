@@ -73,7 +73,7 @@ This analysis matters because it gives stakeholders a **data-backed roadmap** to
 
 ---
 
-## 📊 Dashboard Visualization  
+## Dashboard Visualization  
 
 [**View Interactive Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMzM0OWEyNDctYWJjYy00NWZjLTg0MmMtMTA2OWRhZmIxYjZjIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)
 
@@ -113,7 +113,7 @@ If current inefficiencies persist:
 
 ---
 
-## 🧾 Conclusion  
+## Conclusion  
 
 The Smart Logistics Analysis reveals a **profitable yet delay-prone logistics system**. While financial performance remains stable, consistent delays largely due to **weather, traffic, and equipment issues** risk long-term sustainability.
 
@@ -122,7 +122,7 @@ With over **50% of deliveries delayed**, addressing these inefficiencies is cruc
 ---
 
 
-## 📬 Contact  
+## Contact  
 
 Let’s connect or collaborate on **Data Analytics, Business Intelligence, and Smart Logistics Optimization** projects.  
 
@@ -132,4 +132,4 @@ Let’s connect or collaborate on **Data Analytics, Business Intelligence, and S
 
 ---
 
-> “In logistics, speed wins customers — but data keeps them.”  
+> “In logistics, speed wins customers but data keeps them.”  
