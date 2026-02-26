@@ -75,7 +75,7 @@ This analysis matters because it gives stakeholders a **data-backed roadmap** to
 
 ## Dashboard Visualization  
 
-[**View Interactive Power BI Dashboard**](https://drive.google.com/file/d/1ljLNB6VYU7l_ZqWJ5uR_rQoc9YsY-SjZ/view?usp=drive_link)
+[**View Power BI Dashboard**](https://drive.google.com/file/d/1ljLNB6VYU7l_ZqWJ5uR_rQoc9YsY-SjZ/view?usp=drive_link)
 
 **Dashboard Features:**  
 - Shipment & delay performance monitoring  
